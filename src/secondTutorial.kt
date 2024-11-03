@@ -18,4 +18,6 @@ fun main(){
     x+=10   // expression is considered as x= x+10
     println(x)  // 25
 
+
+    // we have learned here to play with the number in the arithmetic operator
 }
