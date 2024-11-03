@@ -22,5 +22,8 @@ fun main (){
     // the value of variable is : true
     myVariable4 = false
     println("the value of variable is : "+myVariable4)
-    // the value of variable is : false
+    /*
+    the value of variable is : false
+    in this tutorial we have leaned about the data type declration keywords and about some data type like int , bool etc
+    */
 }
